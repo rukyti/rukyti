@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukyti&label=Profile%20views&color=0e75b6&style=flat" alt="rukyti" /> </p>
 
+- 🔭 I’m currently working on **setting up a jenkins pipeline for CI/CD of static website hosted on s3**
+
+- 🌱 I’m currently learning d **devops**
+
+- 👯 I’m looking to collaborate on **osint projects**
+
 - Contact me - **https://t.me/federal66**
 
 <h3 align="left">Connect with me:</h3>
