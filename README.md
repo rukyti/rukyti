@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on  <b>**osint projects** <b>
 
-- Contact me -  <sup>https://t.me/federal66</sup>
+- Contact me -  <small>https://t.me/federal66<small>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
