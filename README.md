@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rukyti&label=Profile%20views&color=0e75b6&style=flat" alt="rukyti" /> </p>
 
-- 🔭 I’m currently working on **setting up a jenkins pipeline for CI/CD of static website hosted on s3**
+- 🔭 I’m currently working on **Developing an AI OSINT dashboard with Jenkins-based CI/CD automation**
 
-- 🌱 I’m currently learning  <b>**devops** <b>
+- 🌱 I’m currently learning  <b>**networking** <b>
 
-- 👯 I’m looking to collaborate on  <b>**osint projects** <b>
+- 👯 I’m looking to collaborate on  <b>**AI driven OSINT projects** <b>
 
 - Contact me -  <small>https://t.me/federal66<small>
 
