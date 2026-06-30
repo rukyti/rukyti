@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rukyti&show_icons=true&hide_border=true&theme=transparent&title_color=111111&text_color=333333&icon_color=111111" alt="GitHub stats" />
+  <img src="https://komarev.com/ghpvc/?username=rukyti&label=Profile%20views&color=111111&style=flat" alt="Profile views" />
 </p>
